@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="MOBILEAPPS.COM" resolutions="1x" timestamp="1489000376336">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4154913873" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="joel-filipe-195321.jpg" crc="4085303713" ref="index"/>
+    <file name="u468-4.png" crc="4237263586" ref="index"/>
+    <file name="u514-4.png" crc="4267327325" ref="index"/>
+    <file name="iphone2.svg" crc="103543195" seo="true" ref="index"/>
+    <file name="iphone2_poster_.png" crc="127250766" ref="index"/>
+    <file name="u337-4.png" crc="3883242698" ref="index"/>
+    <file name="u332-6.png" crc="98734121" ref="index"/>
+    <file name="u345-4.png" crc="41915859" ref="index"/>
+    <file name="u344-6.png" crc="98734121" ref="index"/>
+    <file name="untitled-5.svg" crc="3917372911" seo="true" ref="index"/>
+    <file name="untitled-5_poster_.png" crc="180877810" ref="index"/>
+    <file name="iphone3.svg" crc="3839293739" seo="true" ref="index"/>
+    <file name="iphone3_poster_.png" crc="4294548249" ref="index"/>
+    <file name="u351-4.png" crc="4287686758" ref="index"/>
+    <file name="u350-6.png" crc="98734121" ref="index"/>
+    <file name="u357-4.png" crc="3986486059" ref="index"/>
+    <file name="u356-6.png" crc="98734121" ref="index"/>
+    <file name="iphone4.svg" crc="463162559" seo="true" ref="index"/>
+    <file name="iphone4_poster_.png" crc="4167993509" ref="index"/>
+    <file name="iphone.svg" crc="411543309" seo="true" ref="index"/>
+    <file name="iphone_poster_.png" crc="380728194" ref="index"/>
+    <file name="u363-4.png" crc="225878428" ref="index"/>
+    <file name="u362-6.png" crc="98734121" ref="index"/>
+  </folder>
+  <file name="index.html" crc="422489762" seo="true" mt="1489000150423" redirect="true"/>
+</manifest>
